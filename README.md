@@ -1,21 +1,24 @@
 # Hero Squad
 
-International hero registry
+Hero Squad App
 
 ## Languages Used
 - HTML
 - Bootstrap
 - Java
 - Postgresql
+- 
+## Languages Used
+Implementing the her squad in java
 
 ## Author
-Javan Oyugi
+Bill Otunga
 
 ## Setup
 - Clone the repository and navigate to the root of the repository
 ```
-git clone https://github.com/jvoyugi/hero-squad.git
-cd hero-squad
+git clone https://github.com/b-otunga/HeroSquad.git
+cd HeroSquad
 ```
 
 ### Direct serving
@@ -23,7 +26,6 @@ cd hero-squad
 - Then run `gradle run`
 
 ### Live site
-- The site can be accessed at [https://hero-squad.herokuapp.com/](https://hero-squad.herokuapp.com/)
-
+coming up
 ## License
 MIT License
